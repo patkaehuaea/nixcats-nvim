@@ -98,7 +98,7 @@
               nil # I would go for nixd but lazy chooses this one idk
               stylua
               nixfmt-classic
-              prettier
+              prettierd
               shfmt
               gofumpt
               gotools
