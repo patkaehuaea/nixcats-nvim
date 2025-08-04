@@ -146,6 +146,7 @@
               snacks-nvim
               nvim-treesitter-textobjects
               nvim-treesitter.withAllGrammars
+              zellij-nav-nvim
               # This is for if you only want some of the grammars
               # (nvim-treesitter.withPlugins (
               #   plugins: with plugins; [
